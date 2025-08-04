@@ -1,0 +1,128 @@
+{
+  "" : {
+    "diagnostics" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/glucko-master.dia",
+    "emit-module-dependencies" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/glucko-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/glucko-master-emit-module.dia",
+    "swift-dependencies" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/glucko-master.swiftdeps"
+  },
+  "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/glucko/App.swift" : {
+    "const-values" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/App.swiftconstvalues",
+    "dependencies" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/App.d",
+    "diagnostics" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/App.dia",
+    "index-unit-output-path" : "/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/App.o",
+    "llvm-bc" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/App.bc",
+    "object" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/App.o",
+    "swift-dependencies" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/App.swiftdeps",
+    "swiftmodule" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/App~partial.swiftmodule"
+  },
+  "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/glucko/ContentView.swift" : {
+    "const-values" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/glucko/Models/DailyMealPlan.swift" : {
+    "const-values" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/DailyMealPlan.swiftconstvalues",
+    "dependencies" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/DailyMealPlan.d",
+    "diagnostics" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/DailyMealPlan.dia",
+    "index-unit-output-path" : "/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/DailyMealPlan.o",
+    "llvm-bc" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/DailyMealPlan.bc",
+    "object" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/DailyMealPlan.o",
+    "swift-dependencies" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/DailyMealPlan.swiftdeps",
+    "swiftmodule" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/DailyMealPlan~partial.swiftmodule"
+  },
+  "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/glucko/Models/Recipe.swift" : {
+    "const-values" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/Recipe.swiftconstvalues",
+    "dependencies" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/Recipe.d",
+    "diagnostics" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/Recipe.dia",
+    "index-unit-output-path" : "/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/Recipe.o",
+    "llvm-bc" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/Recipe.bc",
+    "object" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/Recipe.o",
+    "swift-dependencies" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/Recipe.swiftdeps",
+    "swiftmodule" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/Recipe~partial.swiftmodule"
+  },
+  "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/glucko/ViewModels/AppState.swift" : {
+    "const-values" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/AppState.swiftconstvalues",
+    "dependencies" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/AppState.d",
+    "diagnostics" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/AppState.dia",
+    "index-unit-output-path" : "/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/AppState.o",
+    "llvm-bc" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/AppState.bc",
+    "object" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/AppState.o",
+    "swift-dependencies" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/AppState.swiftdeps",
+    "swiftmodule" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/AppState~partial.swiftmodule"
+  },
+  "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/glucko/Views/CharacterDisplayView.swift" : {
+    "const-values" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/CharacterDisplayView.swiftconstvalues",
+    "dependencies" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/CharacterDisplayView.d",
+    "diagnostics" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/CharacterDisplayView.dia",
+    "index-unit-output-path" : "/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/CharacterDisplayView.o",
+    "llvm-bc" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/CharacterDisplayView.bc",
+    "object" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/CharacterDisplayView.o",
+    "swift-dependencies" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/CharacterDisplayView.swiftdeps",
+    "swiftmodule" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/CharacterDisplayView~partial.swiftmodule"
+  },
+  "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/glucko/Views/DiaryView.swift" : {
+    "const-values" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/DiaryView.swiftconstvalues",
+    "dependencies" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/DiaryView.d",
+    "diagnostics" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/DiaryView.dia",
+    "index-unit-output-path" : "/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/DiaryView.o",
+    "llvm-bc" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/DiaryView.bc",
+    "object" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/DiaryView.o",
+    "swift-dependencies" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/DiaryView.swiftdeps",
+    "swiftmodule" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/DiaryView~partial.swiftmodule"
+  },
+  "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/glucko/Views/GluckoComponents.swift" : {
+    "const-values" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/GluckoComponents.swiftconstvalues",
+    "dependencies" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/GluckoComponents.d",
+    "diagnostics" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/GluckoComponents.dia",
+    "index-unit-output-path" : "/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/GluckoComponents.o",
+    "llvm-bc" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/GluckoComponents.bc",
+    "object" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/GluckoComponents.o",
+    "swift-dependencies" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/GluckoComponents.swiftdeps",
+    "swiftmodule" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/GluckoComponents~partial.swiftmodule"
+  },
+  "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/glucko/Views/MealLoggerView.swift" : {
+    "const-values" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/MealLoggerView.swiftconstvalues",
+    "dependencies" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/MealLoggerView.d",
+    "diagnostics" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/MealLoggerView.dia",
+    "index-unit-output-path" : "/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/MealLoggerView.o",
+    "llvm-bc" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/MealLoggerView.bc",
+    "object" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/MealLoggerView.o",
+    "swift-dependencies" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/MealLoggerView.swiftdeps",
+    "swiftmodule" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/MealLoggerView~partial.swiftmodule"
+  },
+  "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/glucko/Views/RewardSystemView.swift" : {
+    "const-values" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/RewardSystemView.swiftconstvalues",
+    "dependencies" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/RewardSystemView.d",
+    "diagnostics" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/RewardSystemView.dia",
+    "index-unit-output-path" : "/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/RewardSystemView.o",
+    "llvm-bc" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/RewardSystemView.bc",
+    "object" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/RewardSystemView.o",
+    "swift-dependencies" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/RewardSystemView.swiftdeps",
+    "swiftmodule" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/RewardSystemView~partial.swiftmodule"
+  },
+  "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/glucko/Views/WeeklyPlannerView.swift" : {
+    "const-values" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/WeeklyPlannerView.swiftconstvalues",
+    "dependencies" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/WeeklyPlannerView.d",
+    "diagnostics" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/WeeklyPlannerView.dia",
+    "index-unit-output-path" : "/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/WeeklyPlannerView.o",
+    "llvm-bc" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/WeeklyPlannerView.bc",
+    "object" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/WeeklyPlannerView.o",
+    "swift-dependencies" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/WeeklyPlannerView.swiftdeps",
+    "swiftmodule" : "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/build/Build/Intermediates.noindex/glucko.build/Debug-iphonesimulator/glucko.build/Objects-normal/arm64/WeeklyPlannerView~partial.swiftmodule"
+  }
+}

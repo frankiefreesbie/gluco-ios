@@ -1,0 +1,152 @@
+{
+  "source": "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/glucko/Views/WeeklyPlannerView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Today's meals",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 23
+        }
+      },
+      {
+        "comment": "",
+        "key": "recipe picture",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 121
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld Kcal",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 138
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld min",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 135
+        }
+      },
+      {
+        "comment": "",
+        "key": "NUTRITIONAL VALUES",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 158
+        }
+      },
+      {
+        "comment": "",
+        "key": "GROCERY LIST",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 196
+        }
+      },
+      {
+        "comment": "",
+        "key": "Share list",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 201
+        }
+      },
+      {
+        "comment": "",
+        "key": "No idea what to eat?",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 246
+        }
+      },
+      {
+        "comment": "",
+        "key": "Glucko can suggest the best meal for you",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 250
+        }
+      },
+      {
+        "comment": "",
+        "key": "Suggest a Meal",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 294
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld min • %lld kcal",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 275
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld min • %lld kcal",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 308
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ingredients:",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 317
+        }
+      },
+      {
+        "comment": "",
+        "key": "- %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 319
+        }
+      },
+      {
+        "comment": "",
+        "key": "Instructions:",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 323
+        }
+      },
+      {
+        "comment": "",
+        "key": "- %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 325
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 361
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lldmin - %lldkcal",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 397
+        }
+      }
+    ]
+  },
+  "version": 1
+}

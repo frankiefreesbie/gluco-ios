@@ -1,0 +1,64 @@
+{
+  "source": "/Users/francescorapacciuolo/Documents/glucko-ios/glucko/glucko/Views/DiaryView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 197
+        }
+      },
+      {
+        "comment": "",
+        "key": "Today's meals",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 236
+        }
+      },
+      {
+        "comment": "",
+        "key": "+ Add",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 290
+        }
+      },
+      {
+        "comment": "",
+        "key": "Meal Image",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 323
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld min · %lld Kcal",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 361
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add meal",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 412
+        }
+      },
+      {
+        "comment": "",
+        "key": "GROCERY LIST",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 444
+        }
+      }
+    ]
+  },
+  "version": 1
+}

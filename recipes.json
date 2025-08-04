@@ -1,0 +1,560 @@
+[
+  {
+    "name": "Quick Chickpea Stew",
+    "prep_time": 10,
+    "description": "A hearty and nutritious chickpea stew with tomatoes and yogurt",
+    "protein": 12,
+    "carbs": 45,
+    "fat": 8,
+    "calories": 320,
+    "image_url": "https://paafbaftnlwhboshwwxf.supabase.co/storage/v1/object/public/recipe-images/quick-chickpea-stew.png",
+    "ingredients": [
+      {
+        "name": "Chickpeas",
+        "amount": "400g canned",
+        "quantity_value": 400,
+        "quantity_unit": "g",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Tomatoes",
+        "amount": "2 medium",
+        "quantity_value": 2,
+        "quantity_unit": "medium",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Red onion",
+        "amount": "1 small",
+        "quantity_value": 1,
+        "quantity_unit": "small",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Garlic",
+        "amount": "2 cloves",
+        "quantity_value": 2,
+        "quantity_unit": "cloves",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Yogurt",
+        "amount": "2 tablespoons",
+        "quantity_value": 2,
+        "quantity_unit": "tablespoons",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Olive oil",
+        "amount": "1 tablespoon",
+        "quantity_value": 1,
+        "quantity_unit": "tablespoon",
+        "is_optional": false,
+        "show_in_list": true
+      }
+    ],
+    "instructions": [
+      "Heat oil in a large pot over medium heat",
+      "Sauté onion and garlic until fragrant",
+      "Add tomatoes and chickpeas",
+      "Simmer for 10 minutes until thickened",
+      "Serve with yogurt on top"
+    ]
+  },
+  {
+    "name": "Californian Quesadilla",
+    "prep_time": 10,
+    "description": "A West Coast-inspired breakfast quesadilla with creamy cheese, avocado, fresh salmon, and a spicy kick. Crispy on the outside, rich and satisfying on the inside.",
+    "protein": 26,
+    "carbs": 20,
+    "fat": 22,
+    "calories": 360,
+    "image_url": "https://paafbaftnlwhboshwwxf.supabase.co/storage/v1/object/public/recipe-images/californian_quesadilla.png",
+    "ingredients": [
+      {
+        "name": "Butter",
+        "amount": "1 knob",
+        "quantity_value": 1,
+        "quantity_unit": "knob",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Salmon fillet",
+        "amount": "1 fillet (120g), cut into chunks",
+        "quantity_value": 120,
+        "quantity_unit": "grams",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Tortilla (wheat or corn)",
+        "amount": "1",
+        "quantity_value": 1,
+        "quantity_unit": "unit",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Cream cheese",
+        "amount": "1 tablespoon",
+        "quantity_value": 1,
+        "quantity_unit": "tablespoon",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Avocado",
+        "amount": "1/2, thinly sliced",
+        "quantity_value": 0.5,
+        "quantity_unit": "unit",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Hot sauce (optional)",
+        "amount": "a dash",
+        "quantity_value": null,
+        "quantity_unit": null,
+        "is_optional": true,
+        "show_in_list": true
+      },
+      {
+        "name": "Salt",
+        "amount": "To taste",
+        "quantity_value": null,
+        "quantity_unit": null,
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Black pepper",
+        "amount": "To taste",
+        "quantity_value": null,
+        "quantity_unit": null,
+        "is_optional": false,
+        "show_in_list": true
+      }
+    ],
+    "instructions": [
+      "Melt butter in a non-stick pan over medium heat. Add the salmon and cook for about 5 minutes until fully cooked.",
+      "Spread cream cheese on one half of the tortilla. Layer with avocado slices and cooked salmon.",
+      "Add a dash of hot sauce if desired. Season with salt and pepper.",
+      "Fold the tortilla and place back in the pan. Toast for 3 minutes per side until golden and crispy.",
+      "Slice and serve warm."
+    ]
+  },
+  {
+    "name": "Salmon Toast",
+    "prep_time": 5,
+    "description": "A creamy, savory smoked salmon toast with capers and lemon — quick to prepare and rich in protein, perfect for a balanced breakfast or light meal.",
+    "protein": 19,
+    "carbs": 17,
+    "fat": 15,
+    "calories": 280,
+    "image_url": "https://paafbaftnlwhboshwwxf.supabase.co/storage/v1/object/public/recipe-images/salmon_toast.png",
+    "ingredients": [
+      {
+        "name": "Rye bread",
+        "amount": "1 slice",
+        "quantity_value": 1,
+        "quantity_unit": "slice",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Cream cheese",
+        "amount": "1 generous tablespoon",
+        "quantity_value": 1,
+        "quantity_unit": "tablespoon",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Smoked salmon",
+        "amount": "1 slice",
+        "quantity_value": 1,
+        "quantity_unit": "slice",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Capers",
+        "amount": "2 teaspoons, drained",
+        "quantity_value": 2,
+        "quantity_unit": "teaspoons",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Lemon",
+        "amount": "1 wedge",
+        "quantity_value": 1,
+        "quantity_unit": "wedge",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Salt",
+        "amount": "To taste",
+        "quantity_value": null,
+        "quantity_unit": null,
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Black pepper",
+        "amount": "To taste",
+        "quantity_value": null,
+        "quantity_unit": null,
+        "is_optional": false,
+        "show_in_list": true
+      }
+    ],
+    "instructions": [
+      "Toast the slice of rye bread until golden.",
+      "Spread cream cheese over the toast.",
+      "Add the smoked salmon slice on top.",
+      "Sprinkle with drained capers and squeeze lemon juice over it.",
+      "Season with salt and black pepper to taste. Serve immediately."
+    ]
+  },
+  {
+    "name": "Spinach & Sausage",
+    "prep_time": 10,
+    "description": "A quick and hearty savory breakfast that balances protein and fiber — golden sausage with garlicky sautéed spinach.",
+    "protein": 24,
+    "carbs": 4,
+    "fat": 26,
+    "calories": 340,
+    "image_url": "https://paafbaftnlwhboshwwxf.supabase.co/storage/v1/object/public/recipe-images/spinach_sausage.png",
+    "ingredients": [
+      {
+        "name": "Sausage",
+        "amount": "2 good-quality sausages (about 60g each), cut into 1 cm pieces",
+        "quantity_value": 120,
+        "quantity_unit": "grams",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Garlic",
+        "amount": "2 cloves",
+        "quantity_value": 2,
+        "quantity_unit": "cloves",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Fresh spinach",
+        "amount": "200g",
+        "quantity_value": 200,
+        "quantity_unit": "grams",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Extra virgin olive oil",
+        "amount": "1 tablespoon",
+        "quantity_value": 1,
+        "quantity_unit": "tablespoon",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Salt",
+        "amount": "To taste",
+        "quantity_value": null,
+        "quantity_unit": null,
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Black pepper",
+        "amount": "To taste",
+        "quantity_value": null,
+        "quantity_unit": null,
+        "is_optional": false,
+        "show_in_list": true
+      }
+    ],
+    "instructions": [
+      "Heat olive oil in a pan over medium heat.",
+      "Add sausage pieces and cook for 5 minutes, turning occasionally until browned. Remove and keep warm.",
+      "Add garlic to the same pan and sauté for 30 seconds.",
+      "Add spinach and cook until wilted but still vibrant green.",
+      "Plate the spinach, add the sausage on top, and season with salt and pepper."
+    ]
+  },
+  {
+    "name": "Avocado Toast with prosciutto",
+    "prep_time": 7,
+    "description": "A protein-rich twist on classic avocado toast with cooked prosciutto and spicy harissa.",
+    "protein": 14,
+    "carbs": 18,
+    "fat": 21,
+    "calories": 320,
+    "image_url": "https://paafbaftnlwhboshwwxf.supabase.co/storage/v1/object/public/recipe-images/avocado_toast_prosciutto.png",
+    "ingredients": [
+      {
+        "name": "Avocado",
+        "amount": "1/2 avocado",
+        "quantity_value": 0.5,
+        "quantity_unit": "avocado",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Harissa",
+        "amount": "1 teaspoon",
+        "quantity_value": 1,
+        "quantity_unit": "teaspoon",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Rye bread",
+        "amount": "1 slice",
+        "quantity_value": 1,
+        "quantity_unit": "slice",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Cooked prosciutto",
+        "amount": "2 slices",
+        "quantity_value": 2,
+        "quantity_unit": "slices",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Lemon wedge",
+        "amount": "1 wedge",
+        "quantity_value": 1,
+        "quantity_unit": "wedge",
+        "is_optional": true,
+        "show_in_list": true
+      },
+      {
+        "name": "Salt and pepper",
+        "amount": "To taste",
+        "quantity_value": null,
+        "quantity_unit": null,
+        "is_optional": false,
+        "show_in_list": true
+      }
+    ],
+    "instructions": [
+      "Mash the avocado and harissa together in a bowl using a fork. Season with salt and pepper to taste.",
+      "Toast the rye bread and place it on a plate. Top with the slices of cooked prosciutto.",
+      "Spoon the avocado mixture over the prosciutto.",
+      "Serve with a wedge of lemon, if desired."
+    ]
+  },
+  {
+    "name": "Dressed Apple",
+    "prep_time": 5,
+    "description": "A light and refreshing plate of crisp apple slices paired with sharp cheddar and crunchy walnuts. Finished with a touch of lemon juice for a bright, tangy twist.",
+    "protein": 7,
+    "carbs": 18,
+    "fat": 14,
+    "calories": 220,
+    "ingredients": [
+      {
+        "name": "Apple",
+        "amount": "1 apple",
+        "quantity_value": 1,
+        "quantity_unit": "apple",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Lemon juice",
+        "amount": "Juice of 1/4 lemon",
+        "quantity_value": 0.25,
+        "quantity_unit": "lemon",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Cheddar cheese",
+        "amount": "40g",
+        "quantity_value": 40,
+        "quantity_unit": "g",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Crushed walnuts",
+        "amount": "A handful",
+        "quantity_value": null,
+        "quantity_unit": null,
+        "is_optional": false,
+        "show_in_list": true
+      }
+    ],
+    "instructions": [
+      "Squeeze the lemon over the apple slices to prevent browning.",
+      "Arrange the apple slices on a plate with the cheddar and walnuts."
+    ]
+  },
+  {
+    "name": "Tomato Toast & Burrata",
+    "prep_time": 8,
+    "description": "A luxurious toast topped with creamy burrata, peppery arugula, and sun-dried tomatoes. Finished with basil pesto for a burst of fresh flavor.",
+    "protein": 12,
+    "carbs": 22,
+    "fat": 18,
+    "calories": 280,
+    "ingredients": [
+      {
+        "name": "Naturally leavened bread",
+        "amount": "1 slice",
+        "quantity_value": 1,
+        "quantity_unit": "slice",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Arugula (rocket)",
+        "amount": "1 handful",
+        "quantity_value": 1,
+        "quantity_unit": "handful",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Burrata",
+        "amount": "½ burrata",
+        "quantity_value": 0.5,
+        "quantity_unit": "burrata",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Sun-dried tomatoes in oil",
+        "amount": "3 pieces",
+        "quantity_value": 3,
+        "quantity_unit": "pieces",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Basil pesto",
+        "amount": "1 tablespoon",
+        "quantity_value": 1,
+        "quantity_unit": "tablespoon",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Extra virgin olive oil",
+        "amount": "½ tablespoon",
+        "quantity_value": 0.5,
+        "quantity_unit": "tablespoon",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Salt and pepper",
+        "amount": "To taste",
+        "quantity_value": null,
+        "quantity_unit": null,
+        "is_optional": false,
+        "show_in_list": true
+      }
+    ],
+    "instructions": [
+      "Toast the bread, place it on a plate, and drizzle with a little olive oil.",
+      "Top with arugula, burrata, sun-dried tomatoes, and pesto.",
+      "Season with salt and pepper to taste, and enjoy immediately."
+    ]
+  },
+  {
+    "name": "Avocado with hummus and lemon",
+    "prep_time": 6,
+    "description": "A protein-rich plate featuring creamy avocado and hummus topped with tuna, seeds, and a bright lemon finish. Perfect for a satisfying and nutritious meal.",
+    "protein": 18,
+    "carbs": 12,
+    "fat": 22,
+    "calories": 320,
+    "ingredients": [
+      {
+        "name": "Avocado",
+        "amount": "½ avocado",
+        "quantity_value": 0.5,
+        "quantity_unit": "avocado",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Lemon juice",
+        "amount": "Juice of ¼ lemon",
+        "quantity_value": 0.25,
+        "quantity_unit": "lemon",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Hummus",
+        "amount": "3 tablespoons",
+        "quantity_value": 3,
+        "quantity_unit": "tablespoons",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Canned tuna in olive oil, drained",
+        "amount": "50–60g",
+        "quantity_value": 55,
+        "quantity_unit": "grams",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Seeds and/or nuts (e.g., pumpkin seeds, walnuts)",
+        "amount": "1 tablespoon",
+        "quantity_value": 1,
+        "quantity_unit": "tablespoon",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Extra virgin olive oil (EVOO)",
+        "amount": "1 tablespoon",
+        "quantity_value": 1,
+        "quantity_unit": "tablespoon",
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Salt",
+        "amount": "To taste",
+        "quantity_value": null,
+        "quantity_unit": null,
+        "is_optional": false,
+        "show_in_list": true
+      },
+      {
+        "name": "Pepper",
+        "amount": "To taste",
+        "quantity_value": null,
+        "quantity_unit": null,
+        "is_optional": false,
+        "show_in_list": true
+      }
+    ],
+    "instructions": [
+      "Season the avocado slices with lemon juice to prevent browning.",
+      "Spread hummus on a plate and layer the avocado on top.",
+      "Top with tuna, seeds or nuts, and drizzle with olive oil.",
+      "Season with salt and pepper to taste."
+    ]
+  }
+]

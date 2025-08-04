@@ -1,0 +1,474 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8C7CC0202E2E5324004AA5B4 /* CropViewController in Frameworks */ = {isa = PBXBuildFile; productRef = 8C7CC01F2E2E5324004AA5B4 /* CropViewController */; };
+		8C7CC0222E2E5324004AA5B4 /* TOCropViewController in Frameworks */ = {isa = PBXBuildFile; productRef = 8C7CC0212E2E5324004AA5B4 /* TOCropViewController */; };
+		8C7CC02D2E33D61B004AA5B4 /* Auth in Frameworks */ = {isa = PBXBuildFile; productRef = 8C7CC02C2E33D61B004AA5B4 /* Auth */; };
+		8C7CC02F2E33D61B004AA5B4 /* Functions in Frameworks */ = {isa = PBXBuildFile; productRef = 8C7CC02E2E33D61B004AA5B4 /* Functions */; };
+		8C7CC0312E33D61B004AA5B4 /* PostgREST in Frameworks */ = {isa = PBXBuildFile; productRef = 8C7CC0302E33D61B004AA5B4 /* PostgREST */; };
+		8C7CC0332E33D61B004AA5B4 /* Realtime in Frameworks */ = {isa = PBXBuildFile; productRef = 8C7CC0322E33D61B004AA5B4 /* Realtime */; };
+		8C7CC0352E33D61B004AA5B4 /* Storage in Frameworks */ = {isa = PBXBuildFile; productRef = 8C7CC0342E33D61B004AA5B4 /* Storage */; };
+		8C7CC0382E352C70004AA5B4 /* Supabase in Frameworks */ = {isa = PBXBuildFile; productRef = 8C7CC0372E352C70004AA5B4 /* Supabase */; };
+		8CFC86952E3F4FE50035BF20 /* GoogleSignIn in Frameworks */ = {isa = PBXBuildFile; productRef = 8CFC86942E3F4FE50035BF20 /* GoogleSignIn */; };
+		8CFC86972E3F4FE50035BF20 /* GoogleSignInSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 8CFC86962E3F4FE50035BF20 /* GoogleSignInSwift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		8C538B672E252DAD00AC7A86 /* glucko.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = glucko.app; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		8C7CBFEF2E2A7195004AA5B4 /* Exceptions for "glucko" folder in "glucko" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 8C538B662E252DAD00AC7A86 /* glucko */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		8C538B692E252DAD00AC7A86 /* glucko */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				8C7CBFEF2E2A7195004AA5B4 /* Exceptions for "glucko" folder in "glucko" target */,
+			);
+			path = glucko;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8C538B642E252DAD00AC7A86 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8C7CC0222E2E5324004AA5B4 /* TOCropViewController in Frameworks */,
+				8C7CC0202E2E5324004AA5B4 /* CropViewController in Frameworks */,
+				8C7CC0352E33D61B004AA5B4 /* Storage in Frameworks */,
+				8C7CC02F2E33D61B004AA5B4 /* Functions in Frameworks */,
+				8C7CC0382E352C70004AA5B4 /* Supabase in Frameworks */,
+				8CFC86972E3F4FE50035BF20 /* GoogleSignInSwift in Frameworks */,
+				8C7CC0332E33D61B004AA5B4 /* Realtime in Frameworks */,
+				8C7CC02D2E33D61B004AA5B4 /* Auth in Frameworks */,
+				8C7CC0312E33D61B004AA5B4 /* PostgREST in Frameworks */,
+				8CFC86952E3F4FE50035BF20 /* GoogleSignIn in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8C538B5E2E252DAD00AC7A86 = {
+			isa = PBXGroup;
+			children = (
+				8C538B692E252DAD00AC7A86 /* glucko */,
+				8C7CC0362E352C70004AA5B4 /* Frameworks */,
+				8C538B682E252DAD00AC7A86 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8C538B682E252DAD00AC7A86 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8C538B672E252DAD00AC7A86 /* glucko.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8C7CC0362E352C70004AA5B4 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8C538B662E252DAD00AC7A86 /* glucko */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8C538B752E252DAE00AC7A86 /* Build configuration list for PBXNativeTarget "glucko" */;
+			buildPhases = (
+				8C538B632E252DAD00AC7A86 /* Sources */,
+				8C538B642E252DAD00AC7A86 /* Frameworks */,
+				8C538B652E252DAD00AC7A86 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				8C538B692E252DAD00AC7A86 /* glucko */,
+			);
+			name = glucko;
+			packageProductDependencies = (
+				8C7CC01F2E2E5324004AA5B4 /* CropViewController */,
+				8C7CC0212E2E5324004AA5B4 /* TOCropViewController */,
+				8C7CC02C2E33D61B004AA5B4 /* Auth */,
+				8C7CC02E2E33D61B004AA5B4 /* Functions */,
+				8C7CC0302E33D61B004AA5B4 /* PostgREST */,
+				8C7CC0322E33D61B004AA5B4 /* Realtime */,
+				8C7CC0342E33D61B004AA5B4 /* Storage */,
+				8C7CC0372E352C70004AA5B4 /* Supabase */,
+				8CFC86942E3F4FE50035BF20 /* GoogleSignIn */,
+				8CFC86962E3F4FE50035BF20 /* GoogleSignInSwift */,
+			);
+			productName = glucko;
+			productReference = 8C538B672E252DAD00AC7A86 /* glucko.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8C538B5F2E252DAD00AC7A86 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					8C538B662E252DAD00AC7A86 = {
+						CreatedOnToolsVersion = 16.2;
+					};
+				};
+			};
+			buildConfigurationList = 8C538B622E252DAD00AC7A86 /* Build configuration list for PBXProject "glucko" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 8C538B5E2E252DAD00AC7A86;
+			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				8C7CC01E2E2E5324004AA5B4 /* XCRemoteSwiftPackageReference "TOCropViewController" */,
+				8C7CC02B2E33D61B004AA5B4 /* XCRemoteSwiftPackageReference "supabase-swift" */,
+				8CFC86932E3F4FE50035BF20 /* XCRemoteSwiftPackageReference "GoogleSignIn-iOS" */,
+			);
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 8C538B682E252DAD00AC7A86 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8C538B662E252DAD00AC7A86 /* glucko */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8C538B652E252DAD00AC7A86 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8C538B632E252DAD00AC7A86 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		8C538B732E252DAE00AC7A86 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		8C538B742E252DAE00AC7A86 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		8C538B762E252DAE00AC7A86 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = glucko/glucko.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"glucko/Preview Content\"";
+				DEVELOPMENT_TEAM = 546Q94Z76L;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = glucko/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "This app needs access to your camera to take photos of your meals for AI analysis and nutritional tracking.";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.freesbie.glucko;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		8C538B772E252DAE00AC7A86 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = glucko/glucko.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"glucko/Preview Content\"";
+				DEVELOPMENT_TEAM = 546Q94Z76L;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = glucko/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "This app needs access to your camera to take photos of your meals for AI analysis and nutritional tracking.";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.freesbie.glucko;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8C538B622E252DAD00AC7A86 /* Build configuration list for PBXProject "glucko" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8C538B732E252DAE00AC7A86 /* Debug */,
+				8C538B742E252DAE00AC7A86 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8C538B752E252DAE00AC7A86 /* Build configuration list for PBXNativeTarget "glucko" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8C538B762E252DAE00AC7A86 /* Debug */,
+				8C538B772E252DAE00AC7A86 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		8C7CC01E2E2E5324004AA5B4 /* XCRemoteSwiftPackageReference "TOCropViewController" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/TimOliver/TOCropViewController";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.7.4;
+			};
+		};
+		8C7CC02B2E33D61B004AA5B4 /* XCRemoteSwiftPackageReference "supabase-swift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/supabase/supabase-swift";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.5.1;
+			};
+		};
+		8CFC86932E3F4FE50035BF20 /* XCRemoteSwiftPackageReference "GoogleSignIn-iOS" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/google/GoogleSignIn-iOS";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 9.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		8C7CC01F2E2E5324004AA5B4 /* CropViewController */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8C7CC01E2E2E5324004AA5B4 /* XCRemoteSwiftPackageReference "TOCropViewController" */;
+			productName = CropViewController;
+		};
+		8C7CC0212E2E5324004AA5B4 /* TOCropViewController */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8C7CC01E2E2E5324004AA5B4 /* XCRemoteSwiftPackageReference "TOCropViewController" */;
+			productName = TOCropViewController;
+		};
+		8C7CC02C2E33D61B004AA5B4 /* Auth */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8C7CC02B2E33D61B004AA5B4 /* XCRemoteSwiftPackageReference "supabase-swift" */;
+			productName = Auth;
+		};
+		8C7CC02E2E33D61B004AA5B4 /* Functions */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8C7CC02B2E33D61B004AA5B4 /* XCRemoteSwiftPackageReference "supabase-swift" */;
+			productName = Functions;
+		};
+		8C7CC0302E33D61B004AA5B4 /* PostgREST */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8C7CC02B2E33D61B004AA5B4 /* XCRemoteSwiftPackageReference "supabase-swift" */;
+			productName = PostgREST;
+		};
+		8C7CC0322E33D61B004AA5B4 /* Realtime */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8C7CC02B2E33D61B004AA5B4 /* XCRemoteSwiftPackageReference "supabase-swift" */;
+			productName = Realtime;
+		};
+		8C7CC0342E33D61B004AA5B4 /* Storage */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8C7CC02B2E33D61B004AA5B4 /* XCRemoteSwiftPackageReference "supabase-swift" */;
+			productName = Storage;
+		};
+		8C7CC0372E352C70004AA5B4 /* Supabase */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8C7CC02B2E33D61B004AA5B4 /* XCRemoteSwiftPackageReference "supabase-swift" */;
+			productName = Supabase;
+		};
+		8CFC86942E3F4FE50035BF20 /* GoogleSignIn */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8CFC86932E3F4FE50035BF20 /* XCRemoteSwiftPackageReference "GoogleSignIn-iOS" */;
+			productName = GoogleSignIn;
+		};
+		8CFC86962E3F4FE50035BF20 /* GoogleSignInSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8CFC86932E3F4FE50035BF20 /* XCRemoteSwiftPackageReference "GoogleSignIn-iOS" */;
+			productName = GoogleSignInSwift;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = 8C538B5F2E252DAD00AC7A86 /* Project object */;
+}
