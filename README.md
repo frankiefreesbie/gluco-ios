@@ -1,4 +1,4 @@
-# Glucko iOS App
+# Gluco iOS App
 
 A comprehensive iOS application for glucose monitoring and meal planning, built with SwiftUI and Supabase.
 
